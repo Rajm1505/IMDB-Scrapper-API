@@ -1,7 +1,7 @@
 # IMDB-Scrapper-API
 
-- IMDB-Scrapper-API is an Flask API with which ratings of any movie list with IMDB can be scrapped. 
-This Flask API was created just for the educational purposes. Using this commercially is Illegal according to IMDB norms.
+- IMDB-Scrapper-API is a Flask API with which ratings of any movie listed with IMDB can be scrapped. 
+- Note: This Flask API was created just for the educational purposes. Using this commercially is Illegal according to IMDB norms.
 
 How to Setup Locally:
 - Clone the Repo 
